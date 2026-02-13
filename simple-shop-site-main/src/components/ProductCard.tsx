@@ -6,7 +6,10 @@ interface ProductCardProps {
 }
 
 const ProductCard = ({ product }: ProductCardProps) => (
-  <Link to={`/product/${product.id}`} className="group cursor-pointer animate-fade-in block">
+  <Link
+    to={`/product/${product.id}`}
+    className="group cursor-pointer animate-fade-in block"
+  >
     <div className="aspect-square overflow-hidden rounded-lg bg-muted mb-4">
       <img
         src={product.image}
@@ -16,12 +19,16 @@ const ProductCard = ({ product }: ProductCardProps) => (
       />
     </div>
     <div className="space-y-1">
-      <p className="text-xs font-medium text-muted-foreground uppercase tracking-wider">{product.category}</p>
+      <p className="text-xs font-medium text-muted-foreground uppercase tracking-wider">
+        {product.category}
+      </p>
       <h3 className="font-display text-lg font-medium text-foreground group-hover:text-primary transition-colors">
         {product.name}
       </h3>
       <p className="text-sm text-muted-foreground">{product.description}</p>
-      <p className="font-body text-base font-semibold text-foreground pt-1">${product.price}</p>
+      <p className="font-body text-base font-semibold text-foreground pt-1">
+        ${product.price}
+      </p>
     </div>
   </Link>
 );

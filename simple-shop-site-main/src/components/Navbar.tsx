@@ -3,7 +3,6 @@ import { ShoppingBag, Menu, X } from "lucide-react";
 import { useState } from "react";
 
 const navLinks = [
-  { to: "/", label: "Home" },
   { to: "/products", label: "Products" },
   { to: "/about", label: "About" },
   { to: "/contact", label: "Contact" },
@@ -16,8 +15,15 @@ const Navbar = () => {
   return (
     <header className="sticky top-0 z-50 border-b border-border bg-background/80 backdrop-blur-md">
       <div className="container flex h-16 items-center justify-between">
-        <Link to="/" className="font-display text-2xl font-bold text-foreground tracking-tight">
-          Maison
+        <Link
+          to="/"
+          className="font-display text-2xl font-bold text-foreground tracking-tight"
+        >
+          <img
+            src="/favicon.ico"
+            alt="Logo"
+            className="h-10 w-auto object-contain"
+          />
         </Link>
 
         {/* Desktop nav */}
@@ -27,7 +33,9 @@ const Navbar = () => {
               key={link.to}
               to={link.to}
               className={`text-sm font-medium transition-colors hover:text-primary ${
-                location.pathname === link.to ? "text-primary" : "text-muted-foreground"
+                location.pathname === link.to
+                  ? "text-primary"
+                  : "text-muted-foreground"
               }`}
             >
               {link.label}
@@ -46,7 +54,11 @@ const Navbar = () => {
             className="md:hidden text-foreground"
             onClick={() => setMobileOpen(!mobileOpen)}
           >
-            {mobileOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
+            {mobileOpen ? (
+              <X className="h-5 w-5" />
+            ) : (
+              <Menu className="h-5 w-5" />
+            )}
           </button>
         </div>
       </div>
@@ -60,7 +72,9 @@ const Navbar = () => {
               to={link.to}
               onClick={() => setMobileOpen(false)}
               className={`block text-sm font-medium transition-colors hover:text-primary ${
-                location.pathname === link.to ? "text-primary" : "text-muted-foreground"
+                location.pathname === link.to
+                  ? "text-primary"
+                  : "text-muted-foreground"
               }`}
             >
               {link.label}
