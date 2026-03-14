@@ -32,7 +32,7 @@ const Navbar = () => {
             <Link
               key={link.to}
               to={link.to}
-              className={`text-sm font-medium transition-colors hover:text-primary ${
+              className={`text-sm font-medium transition-colors hover:text-primary text-black ${
                 location.pathname === link.to
                   ? "text-primary"
                   : "text-muted-foreground"
@@ -44,12 +44,12 @@ const Navbar = () => {
         </nav>
 
         <div className="flex items-center gap-4">
-          <button className="relative text-foreground hover:text-primary transition-colors">
+          {/* <button className="relative text-foreground hover:text-primary transition-colors">
             <ShoppingBag className="h-5 w-5" />
             <span className="absolute -top-1.5 -right-1.5 flex h-4 w-4 items-center justify-center rounded-full bg-primary text-[10px] font-bold text-primary-foreground">
               0
             </span>
-          </button>
+          </button> */}
           <button
             className="md:hidden text-foreground"
             onClick={() => setMobileOpen(!mobileOpen)}

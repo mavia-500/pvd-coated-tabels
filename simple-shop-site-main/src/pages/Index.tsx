@@ -12,7 +12,7 @@ const Index = () => {
       {/* Hero */}
       <section className="relative h-[85vh] flex items-center overflow-hidden">
         <img
-          src={heroImage}
+          src='/unnamed.webp'
           alt="Premium lifestyle products"
           className="absolute inset-0 h-full w-full object-cover"
         />
