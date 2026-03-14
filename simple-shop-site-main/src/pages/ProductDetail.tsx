@@ -36,7 +36,7 @@ const ProductDetail = () => {
         <div className="space-y-4">
           <div className="aspect-square overflow-hidden rounded-lg bg-muted">
             <img
-              src={product.images[selectedImage]}
+              src={`/assets/${product.images[selectedImage]}`}
               alt={product.name}
               className="h-full w-full object-cover"
             />
@@ -50,7 +50,7 @@ const ProductDetail = () => {
                   selectedImage === i ? "border-primary" : "border-transparent hover:border-muted-foreground/30"
                 }`}
               >
-                <img src={img} alt={`${product.name} ${i + 1}`} className="h-full w-full object-cover" />
+                <img src={`/assets/${img}`} alt={`${product.name} ${i + 1}`} className="h-full w-full object-cover" />
               </button>
             ))}
           </div>
