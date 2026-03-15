@@ -87,9 +87,9 @@ Enhance your space with the Seaford Nesting Table Set – experience versatility
     images: [
       "WhatsApp Image 2026-02-09 at 2.06.47 AM (1).webp",
       "WhatsApp Image 2026-02-09 at 2.06.47 AM (2).webp",
-      "WhatsApp Image 2026-02-09 at 2.06.48 AM.webp",
-      "WhatsApp Image 2026-02-09 at 2.06.48 AM (1).webp",
-      "WhatsApp Image 2026-02-09 at 2.06.48 AM (2).webp ",
+      "WhatsApp Image 2026-02-09 at 2.06.48 AM (1).jpeg",
+      "WhatsApp Image 2026-02-09 at 2.06.48 AM (2).jpeg",
+      "WhatsApp Image 2026-02-09 at 2.06.48 AM.jpeg",
     ],
     description: `Space-Efficient Nesting: This Nesting Table Set of 3pcs offers a space-saving solution with its nested design, giving flexibility in arrangement and serving various purposes within your living space.Versatile & Stylish: Designed with an "X" style, these tables are not just practical but also add a touch of contemporary flair to any room. Use them as side tables, coffee tables, or as decorative pieces individually or together.Durable & Functional: Crafted with sturdy materials, these tables boast durability while maintaining a sleek look, making them an ideal addition to modern interiors.  Base Material: Stainless Steel Golden PVD Coated Top Material wooden sheet ( Can be customized)`,
     dimensions: {
@@ -100,77 +100,135 @@ Enhance your space with the Seaford Nesting Table Set – experience versatility
   },
   {
     id: 4,
-    name: "Soy Wax Candle",
-    price: 28,
-    category: "Home",
-    image:
-      "https://images.unsplash.com/photo-1602607700009-f6109b498506?w=600&h=600&fit=crop",
-    images: [
-      "https://images.unsplash.com/photo-1602607700009-f6109b498506?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1572726729207-a78d6feb18d7?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1603006905003-be475563bc59?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1608181831718-2501a740f3a3?w=600&h=600&fit=crop",
-    ],
-    description: "Clean-burning soy candle with warm amber notes.",
+    name: "BUZUEY Gold Shoe Bench ",
+    price: 8500,
+    off: 10,
+    category: "Shoe Rack",
+    image: "WhatsApp Image 2026-02-09 at 2.03.26 AM.webp",
+    images: ["WhatsApp Image 2026-02-09 at 2.03.26 AM.webp"],
+    description:
+      "This stylish 3-Tier Iron Shoe Rack Bench blends modern industrial design with everyday functionality. Featuring a luxurious gold-finished frame and a soft, padded seat, it serves as both a comfortable entryway bench and an efficient storage solution for your footwear collection. ( Can be customized)",
   },
   {
     id: 5,
-    name: "Cotton Tote Bag",
-    price: 24,
-    category: "Accessories",
-    image:
-      "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=600&h=600&fit=crop",
+    name: "Metal Shoe Rack with Seat ",
+    price: 12600,
+    off: 10,
+    category: "shoes rack",
+    image: "WhatsApp Image 2026-02-09 at 1.59.53 AM.webp",
     images: [
-      "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1591561954557-26941169b49e?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1544816155-12df9643f363?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1597633125184-9000aa0e10ce?w=600&h=600&fit=crop",
+      "WhatsApp Image 2026-02-09 at 2.01.04 AM.webp",
+      "WhatsApp Image 2026-02-09 at 2.01.04 AM (1).webp",
+      "WhatsApp Image 2026-02-09 at 2.01.04 AM (2).webp",
+      "WhatsApp Image 2026-02-09 at 2.01.05 AM.webp",
     ],
-    description: "Durable organic cotton tote for everyday use.",
+    description:
+      "Small Shoe Bench with Storage | Ideal Slim Entryway Shoe Organizer Cabinet - Practical Entrance Bench for Shoe Storage and Seating - Space-Saving Design for Small Spaces - Durable Metal Frame with Comfortable Seat - Stylish and Functional Addition to Your Home ( Can be customized)",
   },
   {
     id: 6,
-    name: "Stoneware Mug",
-    price: 22,
-    category: "Kitchen",
-    image:
-      "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=600&h=600&fit=crop",
+    name: "Elanza Double Cushion  Shoe Rack",
+    price: 9800,
+    off: 15,
+    category: "shoes rack",
+    image: "WhatsApp Image 2026-02-09 at 1.59.53 AM (3).webp",
     images: [
-      "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1517256064527-9d71c2f0e6e4?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1577937927133-66ef06acdf18?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1556909114-44e3e70034e2?w=600&h=600&fit=crop",
+      "WhatsApp Image 2026-02-09 at 1.59.53 AM (2).webp",
+      "WhatsApp Image 2026-02-09 at 1.59.53 AM (1).webp",
+      "WhatsApp Image 2026-02-09 at 1.59.52 AM.webp",
     ],
-    description: "Handmade stoneware mug with a matte glaze.",
+    description: `Cushion – Velvet Cushion Color can be customized in Grey , Brown , Red , Pink , Sky blue , Green , Navy Blue , white !! Designed and crafted with Luxurious Golden Finish. Made up of premium quality and resilient metal. Sleek and Fresh design with Rust-free lacquer coating. Suitable for indoor use only, Avoid direct water contact. Convenient cleaning with dry/damp cloth Please contact us if you need a different Color finish/Size for this product. We would be glad to assist you!`,
   },
   {
     id: 7,
-    name: "Wooden Picture Frame",
-    price: 34,
-    category: "Home",
-    image:
-      "https://images.unsplash.com/photo-1513519245088-0e12902e35a6?w=600&h=600&fit=crop",
-    images: [
-      "https://images.unsplash.com/photo-1513519245088-0e12902e35a6?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1582053433976-25c00369fc93?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1581783898377-1c85bf937427?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&h=600&fit=crop",
-    ],
-    description: "Minimalist wooden frame crafted from reclaimed wood.",
+    name: "circle design corner shelf",
+    price: 10500,
+    off: 8,
+    category: "Corner Shelf",
+    image: "WhatsApp Image 2026-02-09 at 1.57.21 AM (1).webp",
+    images: ["WhatsApp Image 2026-02-09 at 1.57.21 AM (1).webp"],
+    description: `Wall Shelf Design for showcasing, in metal with high quality paint in glossy lacquer finish & high gloss finish marble textured MDF top. Fill your Corner Spaces beautifully with these Racks.
+      Dimensions L: 4.3ft;  Diameter: 14"`,
   },
   {
     id: 8,
-    name: "Woven Basket",
-    price: 45,
-    category: "Home",
-    image:
-      "https://images.unsplash.com/photo-1595408076683-5d0c2c6b tried?w=600&h=600&fit=crop",
+    name: "Square shape corner shelf ",
+    price: 10800,
+    off: 5,
+    category: "Corner Shelf",
+    image: "WhatsApp Image 2026-02-09 at 1.56.40 AM.webp",
+    images: ["WhatsApp Image 2026-02-09 at 1.56.40 AM.webp"],
+    description: `Corner Shelf for showcasing, in metal with high quality paint in glossy lacquer finish & high gloss finish marble textured MDF top. Fill your Corner Spaces beautifully with these Racks.Dimensions L: 4.3ft;  Diameter: 14”`,
+  },
+
+  {
+    id: 9,
+    name: "Corner Shelf Design",
+    price: 10500,
+    off: 8,
+    category: "Corner Shelf",
+    image: "WhatsApp Image 2026-02-09 at 1.55.55 AM.webp",
+    images: ["WhatsApp Image 2026-02-09 at 1.55.55 AM.webp"],
+    description: `orner stand for showcasing, in metal with high quality paint in glossy lacquer finish & high gloss finish marble textured MDF top. Fill your Corner Spaces beautifully with these Racks.
+     Dimensions L: 4.3ft;  Diameter: 13”`,
+  },
+
+  {
+    id: 10,
+    name: "Cube Bookcase",
+    price: 6999,
+    off: 5,
+    category: "Corner Shelf",
+    image: "WhatsApp Image 2026-02-09 at 1.54.55 AM (1).webp",
     images: [
-      "https://images.unsplash.com/photo-1595408076683-5d0c2c6b tried?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1616627561950-9f746e330187?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1600585152220-90363fe7e115?w=600&h=600&fit=crop",
+      "WhatsApp Image 2026-02-0 at 1.54.55 AM.webp",
+      "WhatsApp Image 2026-02-09 at 1.54.56 AM (1).webp",
+      "WhatsApp Image 2026-02-09 at 1.54.56 AM (2).webp",
+      "WhatsApp Image 2026-009 at 1.54.56 AM.webp",
+      "WhatsApp Image 2026-02-09 at 1.54.57 AM.jpeg",
     ],
-    description: "Hand-woven basket ideal for storage and décor.",
+    description: `Bottom two shelves made of metal Brown shelves Made of MDF sheet 5 Full shelves
+Dimensions: 57.25'' H x 12'' W x 12'' D
+Shelf12'' H x 11.8'' W x 11.8'' D
+Content + Care
+MDF Sheet Ans Powder Coated Iron.
+Wipe Clean
+
+Frame finish in powder coating.
+
+Color:
+Frame in Black Color
+
+Pictures are for illustration purposes. Decoration items are not included in this offer.`,
+  },
+
+
+   {
+    id: 11,
+    name: "Cube Bookcase",
+    price: 6999,
+    off: 5,
+    category: "Corner Shelf",
+    image: "WhatsApp Image 2026-02-09 at 1.54.55 AM (1).webp",
+    images: [
+      "WhatsApp Image 2026-02-0 at 1.54.55 AM.webp",
+      "WhatsApp Image 2026-02-09 at 1.54.56 AM (1).webp",
+      "WhatsApp Image 2026-02-09 at 1.54.56 AM (2).webp",
+      "WhatsApp Image 2026-009 at 1.54.56 AM.webp",
+      "WhatsApp Image 2026-02-09 at 1.54.57 AM.jpeg",
+    ],
+    description: `Bottom two shelves made of metal Brown shelves Made of MDF sheet 5 Full shelves
+Dimensions: 57.25'' H x 12'' W x 12'' D
+Shelf12'' H x 11.8'' W x 11.8'' D
+Content + Care
+MDF Sheet Ans Powder Coated Iron.
+Wipe Clean
+
+Frame finish in powder coating.
+
+Color:
+Frame in Black Color
+
+Pictures are for illustration purposes. Decoration items are not included in this offer.`,
   },
 ];

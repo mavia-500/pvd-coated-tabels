@@ -17,24 +17,36 @@ const Contact = () => {
   return (
     <section className="container py-16">
       <div className="max-w-4xl mx-auto">
-        <h1 className="font-display text-4xl font-bold text-foreground mb-2">Get in Touch</h1>
-        <p className="text-muted-foreground mb-12">We'd love to hear from you.</p>
+        <h1 className="font-display text-4xl font-bold text-foreground mb-2">
+          Get in Touch
+        </h1>
+        <p className="text-muted-foreground mb-12">
+          We'd love to hear from you.
+        </p>
 
         <div className="grid md:grid-cols-2 gap-12">
           {/* Info */}
           <div className="space-y-8">
             {[
-              { icon: Mail, title: "Email", detail: "hello@maison.com" },
-              { icon: Phone, title: "Phone", detail: "+1 (555) 123-4567" },
-              { icon: MapPin, title: "Address", detail: "123 Artisan Lane\nBrooklyn, NY 11201" },
+              { icon: Mail, title: "Email", detail: "isf@gmail.com" },
+              { icon: Phone, title: "Phone", detail: "+92 313-15199 54" },
+              {
+                icon: MapPin,
+                title: "Address",
+                detail: "Islamabad snam chook farooq-e-azam chook",
+              },
             ].map((item) => (
               <div key={item.title} className="flex gap-4">
                 <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary/10 text-primary shrink-0">
                   <item.icon className="h-5 w-5" />
                 </div>
                 <div>
-                  <h3 className="font-body font-semibold text-foreground text-sm">{item.title}</h3>
-                  <p className="text-sm text-muted-foreground whitespace-pre-line">{item.detail}</p>
+                  <h3 className="font-body font-semibold text-foreground text-sm">
+                    {item.title}
+                  </h3>
+                  <p className="text-sm text-muted-foreground whitespace-pre-line">
+                    {item.detail}
+                  </p>
                 </div>
               </div>
             ))}
@@ -43,7 +55,9 @@ const Contact = () => {
           {/* Form */}
           <form onSubmit={handleSubmit} className="space-y-5">
             <div>
-              <label className="text-sm font-medium text-foreground mb-1.5 block">Name</label>
+              <label className="text-sm font-medium text-foreground mb-1.5 block">
+                Name
+              </label>
               <Input
                 value={form.name}
                 onChange={(e) => setForm({ ...form, name: e.target.value })}
@@ -52,7 +66,9 @@ const Contact = () => {
               />
             </div>
             <div>
-              <label className="text-sm font-medium text-foreground mb-1.5 block">Email</label>
+              <label className="text-sm font-medium text-foreground mb-1.5 block">
+                Email
+              </label>
               <Input
                 type="email"
                 value={form.email}
@@ -62,7 +78,9 @@ const Contact = () => {
               />
             </div>
             <div>
-              <label className="text-sm font-medium text-foreground mb-1.5 block">Message</label>
+              <label className="text-sm font-medium text-foreground mb-1.5 block">
+                Message
+              </label>
               <Textarea
                 value={form.message}
                 onChange={(e) => setForm({ ...form, message: e.target.value })}

@@ -5,7 +5,7 @@ const Footer = () => (
     <div className="container py-12">
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
         <div>
-          <h3 className="font-display text-xl font-semibold text-foreground mb-3">Maison</h3>
+          <h3 className="font-display text-xl font-semibold text-foreground mb-3">ISF</h3>
           <p className="text-sm text-muted-foreground leading-relaxed">
             Curated essentials for modern living. Thoughtfully sourced, beautifully crafted.
           </p>
@@ -22,12 +22,12 @@ const Footer = () => (
         </div>
         <div>
           <h4 className="font-body text-sm font-semibold text-foreground mb-3 uppercase tracking-wider">Connect</h4>
-          <p className="text-sm text-muted-foreground">hello@maison.com</p>
-          <p className="text-sm text-muted-foreground mt-1">+1 (555) 123-4567</p>
+          <p className="text-sm text-muted-foreground">isf@gmail.com</p>
+          <p className="text-sm text-muted-foreground mt-1">+92 3131519954</p>
         </div>
       </div>
       <div className="mt-10 pt-6 border-t border-border text-center">
-        <p className="text-xs text-muted-foreground">&copy; 2026 Maison. All rights reserved.</p>
+        <p className="text-xs text-muted-foreground">&copy; 2026 ISF. All rights reserved.</p>
       </div>
     </div>
   </footer>

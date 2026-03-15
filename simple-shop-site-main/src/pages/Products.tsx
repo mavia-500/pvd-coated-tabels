@@ -2,17 +2,25 @@ import { useState } from "react";
 import ProductCard from "@/components/ProductCard";
 import { products } from "@/lib/products";
 
-const categories = ["All", ...Array.from(new Set(products.map((p) => p.category)))];
+const categories = [
+  "All",
+  ...Array.from(new Set(products.map((p) => p.category))),
+];
 
 const Products = () => {
   const [active, setActive] = useState("All");
-  const filtered = active === "All" ? products : products.filter((p) => p.category === active);
+  const filtered =
+    active === "All" ? products : products.filter((p) => p.category === active);
 
   return (
     <section className="container py-16">
       <div className="mb-10">
-        <h1 className="font-display text-4xl font-bold text-foreground">All Products</h1>
-        <p className="mt-2 text-muted-foreground">Browse our complete collection.</p>
+        <h1 className="font-display text-4xl font-bold text-foreground">
+          All Products
+        </h1>
+        <p className="mt-2 text-muted-foreground">
+          Browse our complete collection.
+        </p>
       </div>
 
       {/* Filter */}

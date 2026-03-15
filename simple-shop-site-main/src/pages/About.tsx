@@ -1,10 +1,10 @@
 const About = () => (
   <section className="container py-16">
     <div className="max-w-2xl mx-auto">
-      <h1 className="font-display text-4xl font-bold text-foreground mb-6">About Maison</h1>
+      <h1 className="font-display text-4xl font-bold text-foreground mb-6">About ISF</h1>
       <div className="space-y-5 text-muted-foreground leading-relaxed font-body">
         <p>
-          Maison was born from a simple belief: the objects we surround ourselves with should be
+          ISF was born from a simple belief: the objects we surround ourselves with should be
           made with intention. We curate a collection of everyday essentials that are thoughtfully
           designed, responsibly sourced, and built to last.
         </p>
@@ -14,7 +14,7 @@ const About = () => (
           here to share it with you.
         </p>
         <p>
-          From our ceramic workshops in Portugal to weaving studios in Morocco, we travel the world
+          We travel the world
           to find products that bring warmth and character to modern living spaces.
         </p>
       </div>
@@ -22,7 +22,7 @@ const About = () => (
       <div className="mt-12 grid grid-cols-3 gap-6 text-center">
         {[
           { value: "200+", label: "Artisan Partners" },
-          { value: "15", label: "Countries Sourced" },
+          // { value: "15", label: "Countries Sourced" },
           { value: "50k+", label: "Happy Customers" },
         ].map((stat) => (
           <div key={stat.label} className="animate-fade-in">
