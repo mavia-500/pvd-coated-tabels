@@ -202,33 +202,161 @@ Frame in Black Color
 Pictures are for illustration purposes. Decoration items are not included in this offer.`,
   },
 
-
-   {
+  {
     id: 11,
-    name: "Cube Bookcase",
-    price: 6999,
-    off: 5,
-    category: "Corner Shelf",
-    image: "WhatsApp Image 2026-02-09 at 1.54.55 AM (1).webp",
+    name: "Nordic Round Center Table",
+    price: 19999,
+    off: 10,
+    category: "Table",
+    image: "WhatsApp Image 2026-04-11 at 4.32.09 PM.webp",
     images: [
-      "WhatsApp Image 2026-02-0 at 1.54.55 AM.webp",
-      "WhatsApp Image 2026-02-09 at 1.54.56 AM (1).webp",
-      "WhatsApp Image 2026-02-09 at 1.54.56 AM (2).webp",
-      "WhatsApp Image 2026-009 at 1.54.56 AM.webp",
-      "WhatsApp Image 2026-02-09 at 1.54.57 AM.jpeg",
+      "WhatsApp Image 2026-04-11 at 4.32.09 PM.webp",
+      "WhatsApp Image 2026-04-11 at 4.32.10 PM.webp",
+      "WhatsApp Image 2026-04-11 at 4.32.10 PM (1).webp",
+      "WhatsApp Image 2026-04-11 at 4.32.10 PM.webp",
+      // "WhatsApp Image 2026-02-09 at 1.54.57 AM.jpeg",
     ],
-    description: `Bottom two shelves made of metal Brown shelves Made of MDF sheet 5 Full shelves
-Dimensions: 57.25'' H x 12'' W x 12'' D
-Shelf12'' H x 11.8'' W x 11.8'' D
-Content + Care
-MDF Sheet Ans Powder Coated Iron.
-Wipe Clean
+    description: `Dimensions: Diameter: 30", Height: 23" Base Material: Iron and Golden PVD Coated Top: Magma Black Marble ( Can be customized with different Marble, Glass or MDF Sheet of your choice from our stock) Price may vary after customization.Delivery time is 3-4 weeks.Sleek and Modern Design: The Nordic Round Center Table features a sleek and modern design that complements various decor styles, adding a touch of elegance to your living space.Versatile Usage: This table is perfect for serving as a focal point in your living room or as a functional surface for displaying decor items, books, or drinks.Sturdy Construction: Crafted from high-quality materials, this center table is built to withstand daily use and provide long-lasting durability, making it a practical and stylish addition to your home.`,
+  },
 
-Frame finish in powder coating.
+  {
+    id: 12,
+    name: "Nordic Center Table",
+    price: 19999,
+    off: 6,
+    category: "Table",
+    image: "WhatsApp Image 2026-04-11 at 4.28.13 PM (1).webp",
+    images: [
+      "WhatsApp Image 2026-04-11 at 4.28.13 PM (1).webp",
+      "WhatsApp Image 2026-04-11 at 4.28.13 PM (2).webp",
+      "WhatsApp Image 2026-04-11 at 4.28.13 PM.webp",
+      "WhatsApp Image 2026-04-11 at 4.28.14 PM (1).webp",
+      "WhatsApp Image 2026-04-11 at 4.28.14 PM (2).webp",
+      "WhatsApp Image 2026-04-11 at 4.28.14 PM (2).webp",
+      "WhatsApp Image 2026-04-11 at 4.28.14 PM.webp",
+    ],
+    description: ` FBase Material Iron and Golden PVD Coated
+Top: Black Glass ( Can be customized with different Marble, Glass or MDF Sheet of your choice from our stock)
+Price may vary after customization.Delivery time is 3-4 weeks.Nordic center table with a minimalist and stylish design, perfect for modern living spaces.Provides a versatile surface for drinks, books, or decor items, enhancing functionality in your room.Crafted with quality materials and a Nordic-inspired aesthetic, adding a touch of Modern charm to your home decor.`,
+  },
 
-Color:
-Frame in Black Color
+  {
+    id: 13,
+    name: "Nordi",
+    price: 22999,
+    off: 8,
+    category: "Table",
+    image: "WhatsApp Image 2026-04-11 at 4.56.37 PM (1).webp",
+    images: [
+      "WhatsApp Image 2026-04-11 at 4.56.37 PM (1).webp",
+      "WhatsApp Image 2026-04-11 at 4.56.37 PM (2).webp",
+      "WhatsApp Image 2026-04-11 at 4.56.37 PM.webp",
+      "WhatsApp Image 2026-04-11 at 4.56.38 PM.webp",
+    ],
+    description: ` FBase Material Iron and Golden PVD Coated
+Top: Black Glass ( Can be customized with different Marble, Glass or MDF Sheet of your choice from our stock)
+Price may vary after customization.Delivery time is 3-4 weeks.Nordic center table with a minimalist and stylish design, perfect for modern living spaces.Provides a versatile surface for drinks, books, or decor items, enhancing functionality in your room.Crafted with quality materials and a Nordic-inspired aesthetic, adding a touch of Modern charm to your home decor.`,
+  },
 
-Pictures are for illustration purposes. Decoration items are not included in this offer.`,
+  {
+    id: 14,
+    name: "Safari Gold Center Table",
+    price: 25999,
+    off: 10,
+    category: "Table",
+    image: "WhatsApp Image 2026-04-11 at 5.00.42 PM.webp",
+    images: [
+      "WhatsApp Image 2026-04-11 at 5.00.45 PM.webp",
+      "WhatsApp Image 2026-04-11 at 5.00.44 PM.webp",
+      "WhatsApp Image 2026-04-11 at 5.00.44 PM (2).webp",
+      "WhatsApp Image 2026-04-11 at 5.00.44 PM (1).webp",
+      "WhatsApp Image 2026-04-11 at 5.00.43 PM.webp",
+    ],
+    description: ` Dimensions: Height: 18", Length: 4ft, Width: 2ft Frame Material: Iron and  Golden PVD Coated Top: HD Versace Printed Black Glass ( Can be customized with different Marble, Glass or MDF Sheet of your choice from our stock) Price may vary after customization.Delivery time is 3-4 weeks.Exotic Elegance: The Safari Gold Center Table exudes exotic allure with its safari-themed design and golden accents, serving as a captivating centerpiece that adds opulence and sophistication to your living space.Functional Design: With its spacious tabletop and sturdy construction, this center table provides a practical surface for displaying decor, serving snacks, or organizing essentials, blending utility with an eye-catching design.Statement Piece: This table not only offers functionality but also stands out as a statement furniture piece, combining unique aesthetics with functionality, making it a striking addition to your home decor collection.`,
+  },
+
+  {
+    id: 15,
+    name: "X Duo Center Table",
+    price: 19999,
+    off: 6,
+    category: "Table",
+    image: "WhatsApp Image 2026-04-11 at 5.03.07 PM.webp",
+    images: [
+      "WhatsApp Image 2026-04-11 at 5.03.07 PM (1).webp",
+      "WhatsApp Image 2026-04-11 at 5.00.44 PM.webp",
+      "WhatsApp Image 2026-04-11 at 5.03.06 PM.webp",
+    ],
+    description: `Dimensions: Length: 4ft, Width: 2.5ft Base Material: Iron and Golden PVD Coated
+Top: White Marble ( Can be customized with different Marble, Glass or MDF Sheet of your choice from our stock)Price may vary after customization. Delivery time is 3-4 weeks.Modern Dual-Design: Featuring a unique "X" frame and dual structure, this center table blends style with functionality for contemporary interiors.Premium Craftsmanship: Built with durable materials, ensuring lasting strength and elegance for your living space.
+Versatile Functionality: The spacious top provide ample room for decor, books, or everyday essentials.Space-Saving Elegance: Perfectly sized to complement sofas and seating areas, enhancing your room’s aesthetic`,
+  },
+
+  {
+    id: 16,
+    name: "Omega Office TableRegular",
+    price: 29999,
+    off: 8,
+    category: "Table",
+    image: "WhatsApp Image 2026-04-11 at 5.06.16 PM (2).webp",
+    images: [
+      "WhatsApp Image 2026-04-11 at 5.06.16 PM.webp",
+      "WhatsApp Image 2026-04-11 at 5.06.16 PM (1).webp",
+      "WhatsApp Image 2026-04-11 at 5.06.15 PM.webp",
+      "WhatsApp Image 2026-04-11 at 5.06.15 PM (3).webp",
+      "WhatsApp Image 2026-04-11 at 5.06.15 PM (2).webp",
+      "WhatsApp Image 2026-04-11 at 5.06.15 PM (1).webp",
+    ],
+    description: `Dimensions of Table: L X W: 5ft x 2ft ( Can be customized)
+Base Material: Iron and  Golden PVD Coated Top: Corian Marble & Wooden Drawers ( Can be customized with different Marble, Glass or MDF Sheet of your choice from our stock) Dimensions of Chair: 18" X 18" Height: 36" Base Material: Stainless Steel Golden PVD Coated Poshish Fabric: White Imported Velvet ( Can be customized) Price may vary after customization. Delivery time is 3-4 weeks.Sleek & Professional Design: The Omega Office Table features a modern design with clean lines, perfect for adding a touch of sophistication to any office space. Spacious Work Surface: Provides ample room for your computer, documents, and office essentials, helping to boost productivity and organization.Durable & Sturdy: Built with high-quality materials to ensure long-lasting performance, making it ideal for daily use in both home and professional offices.Versatile Functionality: Suitable for a variety of settings—use it as a desk, workstation, or executive table to complement your office décor.`,
+  },
+
+  {
+    id: 17,
+    name: "Omega Office TableRegular",
+    price: 49999,
+    off: 10,
+    category: "Table",
+    image: "WhatsApp Image 2026-04-11 at 5.11.22 PM.webp",
+    images: [
+      "WhatsApp Image 2026-04-11 at 5.11.21 PM.webp",
+      "WhatsApp Image 2026-04-11 at 5.11.21 PM (3).webp",
+      "WhatsApp Image 2026-04-11 at 5.11.21 PM (2).webp",
+      // "WhatsApp Image 2026-04-11 at 5.06.15 PM (3).webp",
+      "WhatsApp Image 2026-04-11 at 5.11.21 PM (1).webp",
+      "WhatsApp Image 2026-04-11 at 5.11.20 PM.webp",
+    ],
+    description: `Dimensions of Dining Table:
+Diameter: 42", Height: 31.5" Dining Table Base Material: Stainless Steel Golden PVD Coated Top: Black Marble (Can be customized with different MDF Sheet, Glass or Marble of your choice from our stock)
+Chair Base Material: iron and Golden PVD Coated or MS Golden Powder Coated Poshish Fabric: Turkish Velvet ( Can be customized) Price may vary after customization. Delivery time is 3-4 weeks.Contemporary Dining Elegance: Elevate your dining experience with the Cage Dining Table Set. Its contemporary design featuring cage-like details adds a touch of modern elegance to your dining area, creating a stylish and inviting atmosphere.Space-Saving Design: Crafted with functionality in mind, this dining table set boasts a space-saving design. The solstice chairs seamlessly tuck under the table, optimizing your dining space and providing a neat and organized look when not in use.Sturdy and Stylish Construction: Beyond its chic appearance, the Cage Dining Table Set is built with a focus on both style and durability. The sturdy construction ensures longevity, making it a practical and enduring addition to your home, perfect for both daily meals and special occasions.`,
+  },
+
+  {
+    id: 18,
+    name: "Modern Book rack",
+    price: 30000,
+    off: 12,
+    category: "Book Rack",
+    image: "WhatsApp Image 2026-04-11 at 5.20.26 PM.webp",
+    images: ["WhatsApp Image 2026-04-11 at 5.20.26 PM (1).webp"],
+    description: `This modern book rack offers substantial storage space and a chic, contemporary aesthetic. It is made from durable materials and is designed to hold books safely and securely. The simple and elegant styling ensures it can fit into any space in your home or office.Give your home a modern look with our Ms modern powder coated book shelf. Material Ms high quality Powder coat Mdf sheet`,
+  },
+
+  {
+    id: 19,
+    name: "Modern Corner Decor Stand",
+    price: 24999,
+    off: 12,
+    category: "Corner Decor Stand",
+    image: "WhatsApp Image 2026-04-11 at 5.22.47 PM.webp",
+    images: [
+      "WhatsApp Image 2026-04-11 at 5.22.46 PM.webp",
+      "WhatsApp Image 2026-04-11 at 5.22.46 PM (3).webp",
+      "WhatsApp Image 2026-04-11 at 5.22.46 PM (2).webp",
+      "WhatsApp Image 2026-04-11 at 5.22.46 PM (1).webp",
+      "WhatsApp Image 2026-04-11 at 5.22.45 PM.webp",
+    ],
+    description: `Dimensions: Height 81", Diameter 18", 4 shelves Stand Material: Iron and Golden PVD Coated
+Shelves: Black Glass( Can be customized with different Glass of your choice from our stock)Price may vary after customization.Delivery time is 3-4 weeks.Space-Optimizing Design: This Modern Corner Decor Stand is crafted to optimize space, ideal for displaying plants, sculptures, or decor, adding an aesthetic touch to any corner of your home.Sturdy & Stylish Construction: Crafted with durable materials, it offers a sturdy foundation for your decorative pieces, combining functionality with a modern, sleek design.Versatile Home Accent: Perfect for both contemporary and classic interiors, this stand effortlessly complements various decor styles, making it a versatile addition to your living space.`,
   },
 ];

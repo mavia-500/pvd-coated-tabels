@@ -13,8 +13,13 @@ const ProductDetail = () => {
   if (!product) {
     return (
       <section className="container py-20 text-center">
-        <h1 className="font-display text-3xl font-bold text-foreground">Product not found</h1>
-        <Link to="/products" className="mt-4 inline-block text-primary hover:underline">
+        <h1 className="font-display text-3xl font-bold text-foreground">
+          Product not found
+        </h1>
+        <Link
+          to="/products"
+          className="mt-4 inline-block text-primary hover:underline"
+        >
           ← Back to products
         </Link>
       </section>
@@ -47,10 +52,16 @@ const ProductDetail = () => {
                 key={i}
                 onClick={() => setSelectedImage(i)}
                 className={`aspect-square overflow-hidden rounded-lg border-2 transition-colors ${
-                  selectedImage === i ? "border-primary" : "border-transparent hover:border-muted-foreground/30"
+                  selectedImage === i
+                    ? "border-primary"
+                    : "border-transparent hover:border-muted-foreground/30"
                 }`}
               >
-                <img src={`/assets/${img}`} alt={`${product.name} ${i + 1}`} className="h-full w-full object-cover" />
+                <img
+                  src={`/assets/${img}`}
+                  alt={`${product.name} ${i + 1}`}
+                  className="h-full w-full object-cover"
+                />
               </button>
             ))}
           </div>
@@ -62,19 +73,35 @@ const ProductDetail = () => {
             <p className="text-xs font-medium text-muted-foreground uppercase tracking-wider mb-2">
               {product.category}
             </p>
-            <h1 className="font-display text-4xl font-bold text-foreground">{product.name}</h1>
+            <h1 className="font-display text-4xl font-bold text-foreground">
+              {product.name}
+            </h1>
           </div>
 
-          <p className="text-muted-foreground text-lg leading-relaxed">{product.description}</p>
+          <p className="text-muted-foreground text-lg leading-relaxed">
+            {product.description}
+          </p>
 
-          <p className="font-display text-3xl font-semibold text-foreground">${product.price}</p>
+          <p className="font-display text-3xl font-semibold text-foreground ">
+            {product.off && (
+              <span className="line-through mr-8">PKR:{product.price}</span>
+            )}
+            {product.off
+              ? ` PKR:${(product.price * (1 - product.off / 100)).toFixed(0)}`
+              : `PKR:${product.price}`}
 
+              <span className="ml-10">{product.off}%OFF</span>
+          </p>
           {/* COD Banner */}
           <div className="flex items-center gap-3 bg-accent/10 border border-accent/20 rounded-lg px-5 py-4">
             <span className="text-2xl">💵</span>
             <div>
-              <p className="font-medium text-foreground text-sm">Cash on Delivery Available</p>
-              <p className="text-xs text-muted-foreground">Pay when your order arrives at your doorstep</p>
+              <p className="font-medium text-foreground text-sm">
+                Cash on Delivery Available
+              </p>
+              <p className="text-xs text-muted-foreground">
+                Pay when your order arrives at your doorstep
+              </p>
             </div>
           </div>
 
